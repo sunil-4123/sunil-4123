@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Sunil Kumar</h1>
-<h3 align="center">A ECE Junior who loves exploring and learning new things</h3>
+<h3 align="center">A Final year ECE student at NIT PATNA who loves exploring and learning new things</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snehakumari3&label=Profile%20views&color=0e75b6&style=flat" alt="snehakumari3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunil kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sunil kumar" /> </p>
 <ul>
     <li>👯 I’m looking to collaborate on web project</li>
     <li>👨‍💻 All of my projects are available at <a href="" target="_blank">/</a></li>
